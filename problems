@@ -10,3 +10,20 @@
    
     Enter a, b, and c in same ordder : 1, -1, 1
     Root 1 and 2 and equal : 1
+
+
+2. Write a program that Celcius to Fareheit conversion. It will ask the user which way cnonversion to be done "C->F" or "F->C". Then it asks for relevant input and then 
+show the appropiate result.
+
+   Eample:
+     
+    Which way conversion you wish to perform : F->C
+    Enter Temperature in Farenhiet : 32
+    32 F in Celcius is 0
+    
+    Which way conversion you wish to perform : C->F
+    Enter Temperature in Farenhiet : 0
+    0 C in Farheneit is 32
+    
+3.     
+    
