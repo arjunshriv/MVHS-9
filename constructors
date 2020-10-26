@@ -1,0 +1,8 @@
+1. Write a class to calculate area of figures cuboid (three sides), cirle(radius) and rectangle(lenght and Width). 
+    Program should repeatdily as for type of shape. Based on type ask user for input on dimensions. After that compute and print area of shape.  
+    
+2. Card game : Two players platy card game. Each draw a card from 52. If they pick same type, then whichever has higher number wins. If they pick diff types then 
+   whichever has higher type wins with folllowing order:
+      spade > Diamond > Heart > Club. If they pick same type and number, try again.
+      Take player names as input and declare winner at end.
+      To simulate card type ad numner, generate random number between 1-4 (club - 1, heart - 2, diamond - 3, spade 4) for type and 1-13 for number.
