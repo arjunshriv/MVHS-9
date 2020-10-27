@@ -6,3 +6,10 @@
       spade > Diamond > Heart > Club. If they pick same type and number, try again.
       Take player names as input and declare winner at end.
       To simulate card type ad numner, generate random number between 1-4 (club - 1, heart - 2, diamond - 3, spade 4) for type and 1-13 for number.
+
+3. Find hash of your name. Ask user for his name and caculate hash of his name. Hash is calculated by adding ascii values of names char and finding mean of asciss values.
+4. Create resume of a user : Ask user his email, address, name, college name and work experience. User may have gone to multiple colleges and worked at multiple place. 
+    For college ask Name of college and year of passing. For work exp ask company name and year worked there. A user may not have gone to any college or may not have any 
+    work exp. Name, address, email should be in center and college and work exp can be left aligned.
+5. Roll dice game : Ask how many times user want roll dice. ROll the dice and find mean of all rolls. If user scores more than 3 he wins else looses.
+
